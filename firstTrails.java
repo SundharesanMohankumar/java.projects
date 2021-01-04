@@ -7,9 +7,9 @@ import java.sql.Statement;
 import java.util.Hashtable;
 import java.util.Map;
 
-/* this project is just done for a practice and its intention is just to use the 'inline memeory' to access the data.
-Here we created the JDBC connection and we accessed the data from MySql and stored in inline memory(using Hash Map) and to
-validate the Username and password that we recieved from the user */
+/* this project's intention is just to use the 'inline memeory' to access the data. Here we created the JDBC 
+connection and we accessed the data from MySql and stored in inline memory(using Hash Map) and to validate the 
+Username and password that we recieved from the user */
 
 public class firstTrails {
 
